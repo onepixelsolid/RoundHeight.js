@@ -1,0 +1,22 @@
+@import url("html5bp.css");
+
+body {
+  padding: 18px;
+  background: url(../img/bg-sep.png);
+  font-family: sans-serif;
+  color: #222;
+  font-size: 17px;
+}
+#page {
+  margin: 0 auto;
+  max-width: 500px;
+}
+
+#page div {
+  float: left;
+  background: rgba(255,230,100,.8);
+  margin-bottom: 18px;
+  padding: 10px 30px;
+}
+
+#page div p { margin: 20px 0; }
